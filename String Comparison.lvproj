@@ -13,10 +13,12 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Added Section Finder Test.lvclass" Type="LVClass" URL="../tests/Added Section Finder Test/Added Section Finder Test.lvclass"/>
+			<Item Name="Common Section Finder Test.lvclass" Type="LVClass" URL="../tests/Common Section Finder Test/Common Section Finder Test.lvclass"/>
 			<Item Name="Removed Section Finder Test.lvclass" Type="LVClass" URL="../tests/Removed Section Finder Test/Removed Section Finder Test.lvclass"/>
 			<Item Name="tester.vi" Type="VI" URL="../tests/Added Section Finder Test/tester.vi"/>
 		</Item>
 		<Item Name="Find Added Sections.vi" Type="VI" URL="../source/Find Added Sections.vi"/>
+		<Item Name="Find Common Sections.vi" Type="VI" URL="../source/Find Common Sections.vi"/>
 		<Item Name="Find Removed Sections.vi" Type="VI" URL="../source/Find Removed Sections.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
