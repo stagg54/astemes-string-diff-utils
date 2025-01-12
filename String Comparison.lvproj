@@ -16,18 +16,20 @@
 			<Item Name="Common Chars Finder Test.lvclass" Type="LVClass" URL="../tests/Common Chars Finder Test/Common Chars Finder Test.lvclass"/>
 			<Item Name="Common Section Finder Test.lvclass" Type="LVClass" URL="../tests/Common Section Finder Test/Common Section Finder Test.lvclass"/>
 			<Item Name="Diff Tool Test.lvclass" Type="LVClass" URL="../tests/Diff Tool Test/Diff Tool Test.lvclass"/>
-			<Item Name="Find Hughlights Test.lvclass" Type="LVClass" URL="../tests/Find Hughlights est/Find Hughlights Test.lvclass"/>
+			<Item Name="Find Highlights Test.lvclass" Type="LVClass" URL="../tests/Find Highlights Test/Find Highlights Test.lvclass"/>
 			<Item Name="Find Index to Insert at Test.lvclass" Type="LVClass" URL="../tests/Find Index to Insert at Test/Find Index to Insert at Test.lvclass"/>
 			<Item Name="Removed Section Finder Test.lvclass" Type="LVClass" URL="../tests/Removed Section Finder Test/Removed Section Finder Test.lvclass"/>
 			<Item Name="tester.vi" Type="VI" URL="../tests/tester.vi"/>
 		</Item>
 		<Item Name="Diff Tool.vi" Type="VI" URL="../source/Diff Tool.vi"/>
 		<Item Name="Find Added Sections.vi" Type="VI" URL="../source/Find Added Sections.vi"/>
+		<Item Name="Find All Highlights.vi" Type="VI" URL="../source/Find All Highlights.vi"/>
 		<Item Name="Find Common Chars.vi" Type="VI" URL="../source/Find Common Chars.vi"/>
 		<Item Name="Find Common Sections.vi" Type="VI" URL="../source/Find Common Sections.vi"/>
 		<Item Name="Find Highlights.vi" Type="VI" URL="../source/Find Highlights.vi"/>
 		<Item Name="Find Index to Insert at.vi" Type="VI" URL="../tests/Diff Tool Test/Find Index to Insert at.vi"/>
 		<Item Name="Find Removed Sections.vi" Type="VI" URL="../source/Find Removed Sections.vi"/>
+		<Item Name="Untitled 3.vi" Type="VI" URL="../../../Users/AntonSundqvist/Desktop/Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
