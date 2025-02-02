@@ -29,7 +29,6 @@
 		<Item Name="Find Highlights.vi" Type="VI" URL="../source/Find Highlights.vi"/>
 		<Item Name="Find Index to Insert at.vi" Type="VI" URL="../tests/Diff Tool Test/Find Index to Insert at.vi"/>
 		<Item Name="Find Removed Sections.vi" Type="VI" URL="../source/Find Removed Sections.vi"/>
-		<Item Name="Untitled 3.vi" Type="VI" URL="../../../Users/AntonSundqvist/Desktop/Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
