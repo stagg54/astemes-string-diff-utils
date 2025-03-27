@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
+	<Property Name="NI.LV.All.SaveVersion" Type="Str">20.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -27,7 +28,7 @@
 		<Item Name="Find Common Chars.vi" Type="VI" URL="../source/Find Common Chars.vi"/>
 		<Item Name="Find Common Sections.vi" Type="VI" URL="../source/Find Common Sections.vi"/>
 		<Item Name="Find Highlights.vi" Type="VI" URL="../source/Find Highlights.vi"/>
-		<Item Name="Find Index to Insert at.vi" Type="VI" URL="../tests/Diff Tool Test/Find Index to Insert at.vi"/>
+		<Item Name="Find Index to Insert at.vi" Type="VI" URL="../source/Find Index to Insert at.vi"/>
 		<Item Name="Find Removed Sections.vi" Type="VI" URL="../source/Find Removed Sections.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
